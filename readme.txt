@@ -7,3 +7,4 @@ What algorithm is required: -
 Ist there an efficiency constraint: No
 Output? No
 Returns: New array in sorted order
+How to handle bad inputs
